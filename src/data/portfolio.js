@@ -7,7 +7,7 @@ export default [
     },
     {
         title: 'Developer Portfolio',
-        imgUrl:  '',
+        imgUrl:  'assests/portfolio.png',
         stack: ['React', 'Tailwind', 'Vite'],
         link: 'https://hungryhuskies-de409.web.app/',
      },
