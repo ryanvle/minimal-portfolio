@@ -9,7 +9,7 @@ export default [
         title: 'Developer Portfolio',
         imgUrl:  'assets/portfolio.png',
         stack: ['React', 'Tailwind', 'Vite'],
-        link: 'https://hungryhuskies-de409.web.app/',
+        link: 'https://portfolio-ryanvle.vercel.app/',
      },
      {
         title: 'Exploring Hate-Crimes',
